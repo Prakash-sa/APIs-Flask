@@ -30,5 +30,3 @@ def greet_name_age():
     return jsonify(message=f"Greetings, {name}! You are {age} years old.")
 
 
-
-
